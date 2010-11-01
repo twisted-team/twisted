@@ -22,3 +22,11 @@ C:\Documents and Settings\Luis Exposito\Mis documentos\Proy. Desarrollo\twisted\
 C:\Documents and Settings\Luis Exposito\Mis documentos\Proy. Desarrollo\twisted\MvcApplication1\MvcApplication1.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Luis Exposito\Mis documentos\Proy. Desarrollo\twisted\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
 C:\Documents and Settings\Luis Exposito\Mis documentos\Proy. Desarrollo\twisted\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
+C:\Users\Juan\Documents\Visual Studio 2010\twisted\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll.config
+C:\Users\Juan\Documents\Visual Studio 2010\twisted\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll
+C:\Users\Juan\Documents\Visual Studio 2010\twisted\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.pdb
+C:\Users\Juan\Documents\Visual Studio 2010\twisted\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.dll
+C:\Users\Juan\Documents\Visual Studio 2010\twisted\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.pdb
+C:\Users\Juan\Documents\Visual Studio 2010\twisted\MvcApplication1\MvcApplication1.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2010\twisted\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
+C:\Users\Juan\Documents\Visual Studio 2010\twisted\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
