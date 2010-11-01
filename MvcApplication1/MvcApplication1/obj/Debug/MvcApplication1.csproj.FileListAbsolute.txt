@@ -1,0 +1,10 @@
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Documents and Settings\Luis Exposito\Mis documentos\Visual Studio 10\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+C:\Documents and Settings\Luis Exposito\Mis documentos\Visual Studio 10\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+C:\Documents and Settings\Luis Exposito\Mis documentos\Visual Studio 10\Projects\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luis Exposito\Mis documentos\Visual Studio 10\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Documents and Settings\Luis Exposito\Mis documentos\Visual Studio 10\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb

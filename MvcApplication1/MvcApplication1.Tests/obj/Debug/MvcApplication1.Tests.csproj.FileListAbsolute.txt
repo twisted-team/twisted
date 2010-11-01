@@ -1,0 +1,8 @@
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll.config
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.pdb
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.dll
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.pdb
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
+C:\Users\caracas\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
