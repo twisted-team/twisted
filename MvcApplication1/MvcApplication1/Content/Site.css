@@ -1,7 +1,7 @@
 ﻿/*----------------------------------------------------------
-El color base de esta plantilla es #5c87b2. Si desea usar
+El color base de esta plantilla es Green. Si desea usar
 otro color, empiece por reemplazar todas las instancias de
-#5c87b2 con el nuevo color.
+Green con el nuevo color.
 ----------------------------------------------------------*/
 body
 {
@@ -131,7 +131,7 @@ ancho de página. O bien puede especificar un ancho de píxel exacto. */
 ----------------------------------------------------------*/
 ul#menu
 {
-    border-bottom: 1px #5C87B2 solid;
+    border-bottom: 1px Green solid;
     padding: 0 0 2px;
     position: relative;
     margin: 0;
