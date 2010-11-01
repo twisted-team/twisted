@@ -66,7 +66,7 @@ namespace MvcApplication1.Repositories
                                {
                                    Name = "Caracas - Montalban, Venezuela",
                                    LatLng = new LatLng { Latitude = 10.471389, Longitude = -66.960556 },
-                                   Image = "sydney.jpg"
+                                   Image = "uea.jpg"
                                }
                             
                            }
